@@ -1,4 +1,6 @@
-抽二次元老婆插件图床仓库
+## Aastrbot抽二次元老婆插件图床仓库
+
+**如果需要快速响应，请下载全部图片放入AstrBot\data\plugin_data\astrbot_plugin_animewifex\img\wife目录。**
 
 ## Deno Deploy部署
 **相比Cloudflare Workers，优点是免代理访问。**
